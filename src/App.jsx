@@ -71,7 +71,7 @@ function App() {
         </title>
         <meta
           name="description"
-          content="Powered by https://github.com/MatinDehghanian"
+          content="Powered by https://github.com/mobohes"
         />
       </Helmet>
       <Grid
